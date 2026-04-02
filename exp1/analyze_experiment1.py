@@ -151,18 +151,20 @@ def ofat_main_effects(matrix, variants):
 
 def interaction_analysis(matrix, variants):
     """
-    Fit a linear model on per-variant accuracy with dimension encodings
-    as features, including pairwise interaction terms.
-    Uses all 18 variants to estimate main + interaction effects.
+    Fit TWO linear models on per-variant accuracy with dummy-coded dimensions:
+      1. Main-effects-only model (8 params for 18 obs → identifiable, R² meaningful)
+      2. Main + interaction model (26 params for 18 obs → overparameterized,
+         coefficients from min-norm lstsq, R² = 1.0 by construction)
 
-    Dimensions are nominal (unordered), so we use dummy coding
-    (one-hot with reference level dropped) instead of linear encoding.
+    The main-effects model is the primary result; interaction coefficients are
+    reported descriptively but should not be over-interpreted.
     """
     from itertools import combinations as combos
 
     variant_ids = [v[0] for v in variants]
     variant_indices = [v[1] for v in variants]
     accs = accuracy_per_variant(matrix)  # (n_variants,)
+    n = len(accs)
 
     dim_names = ["instruction", "answer_format", "option_format", "framing"]
     n_levels = [3, 3, 3, 2]  # levels per dimension
@@ -177,50 +179,75 @@ def interaction_analysis(matrix, variants):
             X_main_cols.append(col)
             main_names.append(f"{dim_names[d]}_L{lvl}")
 
-    X_main = np.column_stack(X_main_cols)  # (n_variants, sum(n_levels)-4)
+    X_main = np.column_stack(X_main_cols)  # (n_variants, 7)
 
-    # Pairwise interactions between dummy columns of different dimensions
-    interaction_names = []
-    interaction_cols = []
+    # ---- Model 1: Main effects only (identifiable) ----
+    X_main_full = np.column_stack([np.ones(n), X_main])  # (18, 8)
+    main_feature_names = ["intercept"] + main_names
+
+    try:
+        beta_main, _, _, _ = np.linalg.lstsq(X_main_full, accs, rcond=None)
+    except np.linalg.LinAlgError:
+        return {"error": "lstsq failed"}
+
+    y_pred_main = X_main_full @ beta_main
+    ss_res_main = np.sum((accs - y_pred_main) ** 2)
+    ss_tot = np.sum((accs - np.mean(accs)) ** 2)
+    r2_main = 1 - ss_res_main / ss_tot if ss_tot > 0 else 0.0
+
+    p_main = len(main_feature_names)  # 8
+    r2_adj = 1 - (1 - r2_main) * (n - 1) / (n - p_main) if n > p_main else 0.0
+
+    main_coefficients = {name: float(b) for name, b in zip(main_feature_names, beta_main)}
+
+    # ---- Model 2: Main + interaction (descriptive only) ----
     # Track which main columns belong to which dimension
     dim_col_ranges = []
     offset = 0
     for d in range(4):
-        k = n_levels[d] - 1  # number of dummies for this dimension
+        k = n_levels[d] - 1
         dim_col_ranges.append(list(range(offset, offset + k)))
         offset += k
 
+    interaction_names = []
+    interaction_cols = []
     for di, dj in combos(range(4), 2):
         for ci in dim_col_ranges[di]:
             for cj in dim_col_ranges[dj]:
                 interaction_names.append(f"{main_names[ci]}*{main_names[cj]}")
                 interaction_cols.append(X_main[:, ci] * X_main[:, cj])
 
-    X_interact = np.column_stack(interaction_cols) if interaction_cols else np.empty((len(accs), 0))
-    X_full = np.column_stack([np.ones(len(accs)), X_main, X_interact])
-    feature_names = ["intercept"] + main_names + interaction_names
+    X_interact = np.column_stack(interaction_cols) if interaction_cols else np.empty((n, 0))
+    X_full = np.column_stack([np.ones(n), X_main, X_interact])
+    full_feature_names = ["intercept"] + main_names + interaction_names
 
-    # OLS fit
     try:
-        beta, residuals, rank, sv = np.linalg.lstsq(X_full, accs, rcond=None)
+        beta_full, _, _, _ = np.linalg.lstsq(X_full, accs, rcond=None)
     except np.linalg.LinAlgError:
-        return {"error": "lstsq failed"}
+        beta_full = np.zeros(len(full_feature_names))
 
-    y_pred = X_full @ beta
-    ss_res = np.sum((accs - y_pred) ** 2)
-    ss_tot = np.sum((accs - np.mean(accs)) ** 2)
-    r_squared = 1 - ss_res / ss_tot if ss_tot > 0 else 0.0
+    full_coefficients = {name: float(b) for name, b in zip(full_feature_names, beta_full)}
 
-    coefficients = {name: float(b) for name, b in zip(feature_names, beta)}
+    # Identify which main effects are large (> 1% accuracy impact)
+    notable_main = {k: v for k, v in main_coefficients.items()
+                    if k != "intercept" and abs(v) > 0.01}
 
-    # Identify which effects are large (> 1% accuracy impact)
-    notable = {k: v for k, v in coefficients.items()
-               if k != "intercept" and abs(v) > 0.01}
+    # Residual SS from main model = unexplained variance = interaction effects
+    interaction_ss_pct = ss_res_main / ss_tot * 100 if ss_tot > 0 else 0.0
 
     return {
-        "coefficients": coefficients,
-        "r_squared": float(r_squared),
-        "notable_effects": notable,
+        "coefficients": main_coefficients,
+        "r_squared": float(r2_main),
+        "r_squared_adj": float(r2_adj),
+        "n_observations": n,
+        "n_parameters_main": p_main,
+        "notable_effects": notable_main,
+        "interaction_pct_of_variance": float(interaction_ss_pct),
+        "interaction_coefficients": {k: v for k, v in full_coefficients.items()
+                                     if "*" in k and abs(v) > 0.01},
+        "note": (f"Main model: {p_main} params / {n} obs (identifiable). "
+                 f"Interaction model: {len(full_feature_names)} params / {n} obs "
+                 f"(overparameterized, coefficients are descriptive only)."),
     }
 
 # ============================================================
@@ -673,7 +700,11 @@ def analyze_single_dataset(dataset):
             print(f"    {dim}: {', '.join(deltas)}")
 
         if interact.get("notable_effects"):
-            print(f"  Interaction Effects (R²={interact['r_squared']:.3f}):")
+            r2 = interact['r_squared']
+            r2a = interact.get('r_squared_adj', r2)
+            ipc = interact.get('interaction_pct_of_variance', 0)
+            print(f"  Main Effects Model (R²={r2:.3f}, R²_adj={r2a:.3f}, "
+                  f"interaction={ipc:.1f}% of variance):")
             for name, coef in interact["notable_effects"].items():
                 print(f"    {name}: {coef:+.4f}")
 
