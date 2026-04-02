@@ -83,12 +83,15 @@ def load_exp1_results(model_e1: str, dataset_key: str) -> dict:
 
 
 def load_exp2_results(dataset_key: str, model_e2: str) -> list[dict]:
-    """Load Exp II results: list of record dicts."""
+    """Load Exp II results: list of record dicts.
+    Tries new naming convention (with source suffix) first, then falls back."""
     bench = DATASETS[dataset_key]
-    path = EXP2_DIR / f"exp2_{bench}_{model_e2}.json"
-    if not path.exists():
-        return []
-    return json.loads(path.read_text())
+    # Try source-tagged files (gpt4o preferred, then qwen, then legacy)
+    for suffix in ["_gpt4o", "_qwen", ""]:
+        path = EXP2_DIR / f"exp2_{bench}_{model_e2}{suffix}.json"
+        if path.exists():
+            return json.loads(path.read_text())
+    return []
 
 
 def load_dataset_items(dataset_key: str) -> dict:
@@ -111,8 +114,20 @@ def load_dataset_items(dataset_key: str) -> dict:
 
 def load_exp2_paraphrased(dataset_key: str) -> dict:
     """Load paraphrased question data for qualitative analysis."""
-    bench = DATASETS[dataset_key]
-    path = EXP2_DIR / f"{bench}_paraphrased.json"
+    if dataset_key == "arc":
+        for name in ["arc_challenge_paraphrased_gpt4o.json",
+                      "arc_challenge_paraphrased_qwen.json",
+                      "arc_challenge_paraphrased.json"]:
+            path = EXP2_DIR / name
+            if path.exists():
+                break
+    else:
+        for name in ["mmlu_pro_paraphrased_gpt4o.json",
+                      "mmlu_pro_paraphrased_qwen.json",
+                      "mmlu_pro_paraphrased.json"]:
+            path = EXP2_DIR / name
+            if path.exists():
+                break
     if not path.exists():
         return {}
     data = json.loads(path.read_text())
@@ -231,7 +246,7 @@ def compute_removal_sets(noise_data: dict, thresholds: list[int] = REMOVAL_THRES
     }
     """
     # Sort by noise score descending
-    sorted_items = sorted(noise_data.items(), key=lambda x: x[1]["noise_score"], reverse=True)
+    sorted_items = sorted(noise_data.items(), key=lambda x: (x[1]["noise_score"], x[0]), reverse=True)
     n_total = len(sorted_items)
 
     removal_sets = {}
@@ -265,7 +280,7 @@ def analyze_noisy_items(
     items = load_dataset_items(dataset_key)
     paraphrased = load_exp2_paraphrased(dataset_key)
 
-    sorted_items = sorted(noise_data.items(), key=lambda x: x[1]["noise_score"], reverse=True)
+    sorted_items = sorted(noise_data.items(), key=lambda x: (x[1]["noise_score"], x[0]), reverse=True)
     top_noisy = sorted_items[:top_n]
 
     analysis = {
