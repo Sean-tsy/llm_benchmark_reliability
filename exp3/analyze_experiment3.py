@@ -107,13 +107,18 @@ def load_exp1_matrix(model_e1: str, dataset_key: str) -> tuple:
 
 
 def load_exp2_dataframe(dataset_key: str) -> pd.DataFrame:
-    """Load Exp II results as a DataFrame."""
+    """Load Exp II results as a DataFrame.
+    Tries new naming convention (with source suffix) first, then falls back."""
     bench = DATASETS[dataset_key]
     frames = []
     for m in MODELS_EXP2:
-        p = EXP2_DIR / f"exp2_{bench}_{m}.json"
-        if p.exists():
-            frames.append(pd.DataFrame(json.loads(p.read_text())))
+        loaded = False
+        for suffix in ["_gpt4o", "_qwen", ""]:
+            p = EXP2_DIR / f"exp2_{bench}_{m}{suffix}.json"
+            if p.exists():
+                frames.append(pd.DataFrame(json.loads(p.read_text())))
+                loaded = True
+                break
     if not frames:
         return pd.DataFrame()
     df = pd.concat(frames, ignore_index=True)
