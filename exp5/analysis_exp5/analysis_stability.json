@@ -1,0 +1,278 @@
+{
+  "stability": {
+    "arc": {
+      "dataset": "ARC-Challenge",
+      "n_questions": 50,
+      "n_repeats": 5,
+      "per_model": {
+        "llama": {
+          "model": "LLaMA-3.1-8B",
+          "n_questions": 50,
+          "TARr_at_5_mean": 0.956,
+          "TARr_at_5_min": 0.4,
+          "fraction_perfect_TARr": 0.92,
+          "TARa_at_5_mean": 0.956,
+          "fraction_perfect_TARa": 0.92,
+          "acc_per_run": [
+            0.78,
+            0.76,
+            0.82,
+            0.8,
+            0.74
+          ],
+          "acc_run_mean": 0.78,
+          "acc_run_std": 0.028284271247461894,
+          "acc_run_range": 0.07999999999999996
+        },
+        "qwen7b": {
+          "model": "Qwen2.5-7B",
+          "n_questions": 50,
+          "TARr_at_5_mean": 0.992,
+          "TARr_at_5_min": 0.6,
+          "fraction_perfect_TARr": 0.98,
+          "TARa_at_5_mean": 0.992,
+          "fraction_perfect_TARa": 0.98,
+          "acc_per_run": [
+            0.92,
+            0.92,
+            0.92,
+            0.92,
+            0.9
+          ],
+          "acc_run_mean": 0.916,
+          "acc_run_std": 0.008000000000000007,
+          "acc_run_range": 0.020000000000000018
+        },
+        "qwen32b": {
+          "model": "Qwen3-32B",
+          "n_questions": 50,
+          "TARr_at_5_mean": 0.992,
+          "TARr_at_5_min": 0.6,
+          "fraction_perfect_TARr": 0.98,
+          "TARa_at_5_mean": 0.992,
+          "fraction_perfect_TARa": 0.98,
+          "acc_per_run": [
+            0.94,
+            0.92,
+            0.94,
+            0.94,
+            0.94
+          ],
+          "acc_run_mean": 0.9359999999999999,
+          "acc_run_std": 0.007999999999999962,
+          "acc_run_range": 0.019999999999999907
+        },
+        "qwen72b": {
+          "model": "Qwen2.5-72B",
+          "n_questions": 50,
+          "TARr_at_5_mean": 1.0,
+          "TARr_at_5_min": 1.0,
+          "fraction_perfect_TARr": 1.0,
+          "TARa_at_5_mean": 1.0,
+          "fraction_perfect_TARa": 1.0,
+          "acc_per_run": [
+            0.96,
+            0.96,
+            0.96,
+            0.96,
+            0.96
+          ],
+          "acc_run_mean": 0.96,
+          "acc_run_std": 0.0,
+          "acc_run_range": 0.0
+        }
+      }
+    },
+    "mmlu": {
+      "dataset": "MMLU-Pro",
+      "n_questions": 50,
+      "n_repeats": 5,
+      "per_model": {
+        "llama": {
+          "model": "LLaMA-3.1-8B",
+          "n_questions": 50,
+          "TARr_at_5_mean": 0.8200000000000002,
+          "TARr_at_5_min": 0.1,
+          "fraction_perfect_TARr": 0.64,
+          "TARa_at_5_mean": 0.9359999999999999,
+          "fraction_perfect_TARa": 0.86,
+          "acc_per_run": [
+            0.3404255319148936,
+            0.3125,
+            0.2708333333333333,
+            0.3404255319148936,
+            0.3191489361702128
+          ],
+          "acc_run_mean": 0.3166666666666667,
+          "acc_run_std": 0.025507585433398452,
+          "acc_run_range": 0.0695921985815603
+        },
+        "qwen7b": {
+          "model": "Qwen2.5-7B",
+          "n_questions": 50,
+          "TARr_at_5_mean": 0.826,
+          "TARr_at_5_min": 0.2,
+          "fraction_perfect_TARr": 0.68,
+          "TARa_at_5_mean": 0.916,
+          "fraction_perfect_TARa": 0.82,
+          "acc_per_run": [
+            0.4,
+            0.44,
+            0.38,
+            0.4,
+            0.38
+          ],
+          "acc_run_mean": 0.4,
+          "acc_run_std": 0.021908902300206645,
+          "acc_run_range": 0.06
+        },
+        "qwen32b": {
+          "model": "Qwen3-32B",
+          "n_questions": 50,
+          "TARr_at_5_mean": 0.8939999999999999,
+          "TARr_at_5_min": 0.1,
+          "fraction_perfect_TARr": 0.78,
+          "TARa_at_5_mean": 0.9119999999999999,
+          "fraction_perfect_TARa": 0.82,
+          "acc_per_run": [
+            0.5365853658536586,
+            0.5121951219512195,
+            0.5116279069767442,
+            0.5476190476190477,
+            0.4878048780487805
+          ],
+          "acc_run_mean": 0.5191664640898901,
+          "acc_run_std": 0.020985452969693046,
+          "acc_run_range": 0.059814169570267195
+        },
+        "qwen72b": {
+          "model": "Qwen2.5-72B",
+          "n_questions": 50,
+          "TARr_at_5_mean": 0.98,
+          "TARr_at_5_min": 0.4,
+          "fraction_perfect_TARr": 0.96,
+          "TARa_at_5_mean": 0.992,
+          "fraction_perfect_TARa": 0.98,
+          "acc_per_run": [
+            0.5,
+            0.52,
+            0.5,
+            0.5,
+            0.5
+          ],
+          "acc_run_mean": 0.504,
+          "acc_run_std": 0.008000000000000007,
+          "acc_run_range": 0.020000000000000018
+        }
+      }
+    }
+  },
+  "comparison_with_exp1_aggregate_std": {
+    "arc": [
+      {
+        "model": "LLaMA-3.1-8B",
+        "run_std": 0.028284271247461894,
+        "prompt_std": 0.04757127673274424,
+        "ratio_run_to_prompt": 0.5945661581959031
+      },
+      {
+        "model": "Qwen2.5-7B",
+        "run_std": 0.008000000000000007,
+        "prompt_std": 0.05622854158600319,
+        "ratio_run_to_prompt": 0.1422764982755915
+      },
+      {
+        "model": "Qwen3-32B",
+        "run_std": 0.007999999999999962,
+        "prompt_std": 0.03861267773454917,
+        "ratio_run_to_prompt": 0.2071858381591045
+      },
+      {
+        "model": "Qwen2.5-72B",
+        "run_std": 0.0,
+        "prompt_std": 0.09645399594279822,
+        "ratio_run_to_prompt": 0.0
+      }
+    ],
+    "mmlu": [
+      {
+        "model": "LLaMA-3.1-8B",
+        "run_std": 0.025507585433398452,
+        "prompt_std": 0.0487661941954291,
+        "ratio_run_to_prompt": 0.5230587675383801
+      },
+      {
+        "model": "Qwen2.5-7B",
+        "run_std": 0.021908902300206645,
+        "prompt_std": 0.041436009224610396,
+        "ratio_run_to_prompt": 0.5287406463650011
+      },
+      {
+        "model": "Qwen3-32B",
+        "run_std": 0.020985452969693046,
+        "prompt_std": 0.0467029728245634,
+        "ratio_run_to_prompt": 0.44933869731426945
+      },
+      {
+        "model": "Qwen2.5-72B",
+        "run_std": 0.008000000000000007,
+        "prompt_std": 0.052839321816466805,
+        "ratio_run_to_prompt": 0.15140239739993963
+      }
+    ]
+  },
+  "comparison_pairwise_disagreement": {
+    "arc": [
+      {
+        "model": "LLaMA-3.1-8B",
+        "run_pair_disagreement": 0.044000000000000004,
+        "prompt_pair_disagreement": 0.12624032030806698,
+        "ratio": 0.348541574455973
+      },
+      {
+        "model": "Qwen2.5-7B",
+        "run_pair_disagreement": 0.008,
+        "prompt_pair_disagreement": 0.13913535353535353,
+        "ratio": 0.057497967243582304
+      },
+      {
+        "model": "Qwen3-32B",
+        "run_pair_disagreement": 0.008,
+        "prompt_pair_disagreement": 0.08819319727891158,
+        "ratio": 0.09070994415476226
+      },
+      {
+        "model": "Qwen2.5-72B",
+        "run_pair_disagreement": 0.0,
+        "prompt_pair_disagreement": 0.1223838383838384,
+        "ratio": 0.0
+      }
+    ],
+    "mmlu": [
+      {
+        "model": "LLaMA-3.1-8B",
+        "run_pair_disagreement": 0.064,
+        "prompt_pair_disagreement": 0.24667660891203916,
+        "ratio": 0.2594490020041639
+      },
+      {
+        "model": "Qwen2.5-7B",
+        "run_pair_disagreement": 0.084,
+        "prompt_pair_disagreement": 0.24645280263293656,
+        "ratio": 0.3408360509704102
+      },
+      {
+        "model": "Qwen3-32B",
+        "run_pair_disagreement": 0.08800000000000001,
+        "prompt_pair_disagreement": 0.21150833015391704,
+        "ratio": 0.4160592631787192
+      },
+      {
+        "model": "Qwen2.5-72B",
+        "run_pair_disagreement": 0.008,
+        "prompt_pair_disagreement": 0.19979221781080686,
+        "ratio": 0.04004159965617678
+      }
+    ]
+  }
+}

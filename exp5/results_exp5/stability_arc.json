@@ -1,0 +1,9002 @@
+[
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C. 8"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_415473",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_408663",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7263183",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7130655",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "CSZ_2005_5_CSZ10021",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400697",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2004_9_5",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_177748",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "A. 50 ml of water"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_2003_8_pg87",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "A",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "A",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "A",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "A",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "A",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A."
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A."
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A."
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A."
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MCAS_2004_9_2",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7068583",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "TAKS_2009_5_36",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C."
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C."
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_403907",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400661",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP__4_10225",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D."
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D."
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D."
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D."
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_400059",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7142520",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_184730",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7132405",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_417118",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2014_5_15",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_5_33",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_405136",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MDSA_2011_5_3",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7164623",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "A",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "A",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "A",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "A",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "A",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "AIMS_2009_8_14",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D."
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D."
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D. 52"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D."
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D. 52"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_404820",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_407572",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7017938",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C. 41"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C. 41"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C."
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C."
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C."
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_407517",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "C"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MCAS_2003_8_29",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_409171",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7158935",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7082758",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401428",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7058135",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_416169",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_401265",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7133945",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_402539",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "C",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7024273",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_1995_8_N2",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "LEAP_2000_8_4",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "B",
+    "is_correct": 0,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B."
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_416646",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "A"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_SC_402981",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_401684",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "D",
+    "is_correct": 0,
+    "raw_response": "B"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "TIMSS_2011_8_pg15",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "D",
+    "is_correct": 1,
+    "raw_response": "D"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7212993",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "C",
+    "correct_answer": "C",
+    "is_correct": 1,
+    "raw_response": "C"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "Mercury_7206378",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "B",
+    "correct_answer": "B",
+    "is_correct": 1,
+    "raw_response": "B"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "llama",
+    "repeat": 0,
+    "parsed_answer": "D",
+    "correct_answer": "A",
+    "is_correct": 0,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "llama",
+    "repeat": 1,
+    "parsed_answer": "D",
+    "correct_answer": "A",
+    "is_correct": 0,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "llama",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "llama",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "llama",
+    "repeat": 4,
+    "parsed_answer": "D",
+    "correct_answer": "A",
+    "is_correct": 0,
+    "raw_response": "D"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen7b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen7b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen7b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen7b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen7b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen32b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen32b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen32b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen32b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen32b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen72b",
+    "repeat": 0,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen72b",
+    "repeat": 1,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen72b",
+    "repeat": 2,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen72b",
+    "repeat": 3,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  },
+  {
+    "qid": "MEA_2010_8_15",
+    "model": "qwen72b",
+    "repeat": 4,
+    "parsed_answer": "A",
+    "correct_answer": "A",
+    "is_correct": 1,
+    "raw_response": "A"
+  }
+]

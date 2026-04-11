@@ -249,6 +249,37 @@ leaderboards with <500 comparisons between close competitors are unreliable.
 
 ---
 
+## 8b. Experiment V: Run-to-Run Stability Validation
+
+**Location**: `exp5/`
+
+**Design**: Sanity check verifying the `temperature=0` assumption used in
+Exp I-IV. Re-runs the **base prompt** on the **same 50 questions** with
+each of the 4 models, **5 independent times**, then measures agreement
+across runs.
+
+**Scale**: 50 questions × 4 models × 5 repeats × 2 datasets = 2,000 API calls.
+
+**Metrics**:
+- TARr@5 (raw answer agreement rate over C(5,2)=10 run-pairs)
+- TARa@5 (correctness agreement rate)
+- Pairwise disagreement: run-to-run vs prompt-to-prompt (cleanest comparison)
+
+**Key results**:
+| Model | ARC TARr@5 | MMLU TARr@5 | ARC run-disagree | ARC prompt-disagree | Ratio |
+|-------|---|---|---|---|---|
+| LLaMA-3.1-8B | 95.6% | 82.0% | 4.4% | 12.6% | 0.35 |
+| Qwen2.5-7B | 99.2% | 82.6% | 0.8% | 13.9% | 0.06 |
+| Qwen3-32B | 99.2% | 89.4% | 0.8% | 8.8% | 0.09 |
+| Qwen2.5-72B | **100%** | 98.0% | **0.0%** | 12.2% | 0.00 |
+
+**Core insight**: All 8 (model × benchmark) cells have run/prompt disagreement
+ratio < 0.5; median = 0.18. Run-to-run noise is consistently smaller than
+prompt-induced noise, validating the `temperature=0` assumption. The largest
+model (Qwen2.5-72B) is essentially perfectly deterministic on ARC.
+
+---
+
 ## 9. Paraphrase Quality Validation
 
 **Location**: `exp2/qc/`
@@ -367,6 +398,13 @@ ST5230/
 │   ├── bt_results_*.json          # BT ratings + rank posteriors
 │   └── figures_bt/               # fig1-fig3 PNG
 │
+├── exp5/                          # Experiment V: Run-to-Run Stability Validation
+│   ├── README.md
+│   ├── run_stability.py           # 2,000-call repeated trials
+│   ├── analyze_stability.py       # TARr/TARa + pairwise comparison
+│   ├── results_exp5/              # Raw stability trials
+│   └── analysis_exp5/             # Stability analysis output
+│
 ├── Papers/                        # Reference literature (17 papers)
 ├── DETAILED_PROJECT_REPORT.md     # Internal report (Chinese)
 ├── LITERATURE_REVIEW_AND_GAP_ANALYSIS.md
@@ -384,6 +422,7 @@ ST5230/
 | Exp II (dual-source paraphrases) | Complete |
 | Exp III (noise analysis, shared 150 questions, using Exp I 100 variants) | Complete |
 | Exp IV (Bradley-Terry) | Complete |
+| Exp V (run-to-run stability validation, 2,000 trials) | Complete |
 | Paraphrase QC (50 manual + 1800 NLI) | Complete |
 | English conference-style report | Not yet written |
 | PPT presentation | In progress |
