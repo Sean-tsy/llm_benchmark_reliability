@@ -2,8 +2,10 @@
 api.txt
 **/api.txt
 
-# Claude Code local config
+# Editor and IDE config
 .claude/
+.vscode/
+.idea/
 
 # Python
 __pycache__/
@@ -25,3 +27,7 @@ Thumbs.db
 # Large binary files
 *.pptx
 *.ppt
+*.aux
+*.log
+*.out
+*.synctex.gz
