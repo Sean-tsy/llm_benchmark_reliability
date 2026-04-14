@@ -15,9 +15,9 @@ across four instruction-tuned models (7B to 72B) on ARC-Challenge and MMLU-Pro.
 
 ## Contributors
 
-[![Contributors](https://img.shields.io/github/contributors/Sean-tsy/llm_benchmark_reliability)](https://github.com/Sean-tsy/llm_benchmark_reliability/graphs/contributors)
-
-The contributor count above is synced from GitHub's backend commit history.
+<a href="https://github.com/lipengyu88"><img src="https://github.com/lipengyu88.png" width="50" height="50" alt="lipengyu88" style="border-radius:50%"></a>
+<a href="https://github.com/Sean-tsy"><img src="https://github.com/Sean-tsy.png" width="50" height="50" alt="Sean-tsy" style="border-radius:50%"></a>
+<a href="https://github.com/tanyang3"><img src="https://github.com/tanyang3.png" width="50" height="50" alt="tanyang3" style="border-radius:50%"></a>
 
 ## Repository structure
 
@@ -195,8 +195,8 @@ item samples.
 3. **Larger models are not uniformly more robust**: Qwen2.5-72B has the
    highest accuracy on ARC yet the widest prompt-sensitivity range
    (33.3 percentage points).
-4. **Reliable top-1 ranking requires ~2,000 pairwise comparisons** under
-   a Bradley Terry model, far more than typical leaderboards provide.
+4. **Reliable top-1 ranking requires ~2,000 pairwise comparisons**
+   under a Bradley Terry model, far more than typical leaderboards provide.
 5. **Run-to-run noise is consistently below half of prompt-induced
    noise** (median ratio 0.18), confirming that the prompt-sensitivity
    findings are not artifacts of API stochasticity at temperature zero.
@@ -209,7 +209,7 @@ See `PROJECT_BRIEFING.md` for the full per-experiment summary.
   resampling, BT subsampling, NumPy `RandomState`).
 - All raw API responses are committed to this repository (`exp1/results_exp1/`,
   `exp2/exp2_*.json`, `exp5/results_exp5/`), so figures and tables can be
-  regenerated without making any new API calls.
+generated without making any new API calls.
 - The two-phase pipeline used in Experiment I retries unparseable
   responses with a larger token budget. Final unparseable rate is below
   1% on every model and benchmark.
