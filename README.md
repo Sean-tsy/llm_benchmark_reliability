@@ -7,11 +7,17 @@ empirical study that decomposes the noise in LLM benchmark evaluation into
 three sources — prompt wording, test-set wording, and item-level instability —
 across four instruction-tuned models (7B to 72B) on ARC-Challenge and MMLU-Pro.
 
-## Authors
+## Project team
 
 - Pengyu Li (A0326905B)
 - Siyuan Teng (A0310203H)
 - Tan Yang (A0333423N)
+
+## Contributors
+
+[![Contributors](https://img.shields.io/github/contributors/Sean-tsy/llm_benchmark_reliability)](https://github.com/Sean-tsy/llm_benchmark_reliability/graphs/contributors)
+
+The contributor count above is synced from GitHub's backend commit history.
 
 ## Repository structure
 
