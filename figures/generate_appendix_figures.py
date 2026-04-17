@@ -512,7 +512,7 @@ def fig_a5_noise_correlation():
             for j in range(n):
                 v = mat[i, j]
                 color = "white" if (v > 0.65 or v < 0.10) else "black"
-                txt = f"{v:.2f}" if i != j else "—"
+                txt = f"{v:.2f}" if i != j else "1.0"
                 ax.text(
                     j, i, txt,
                     ha="center", va="center",

@@ -320,15 +320,15 @@ def fig3_three_way_variance():
         handles, labels,
         loc="upper center",
         framealpha=0.95, fontsize=9,
-        ncol=3, bbox_to_anchor=(0.5, 1.0),
+        ncol=3, bbox_to_anchor=(0.5, 1.01),
     )
 
     fig.suptitle(
         "Three-way variance decomposition (top label = prompt share)",
-        fontsize=13, fontweight="bold", y=1.08,
+        fontsize=12, fontweight="bold", y=1.06,
     )
-    fig.tight_layout(rect=[0, 0, 1, 0.97])
-    fig.savefig(OUT / "fig3_three_way_variance.png")
+    fig.tight_layout(rect=[0, 0, 1, 0.93])
+    fig.savefig(OUT / "fig3_three_way_variance.png", bbox_inches="tight")
     plt.close(fig)
     print("  saved fig3_three_way_variance.png")
 
