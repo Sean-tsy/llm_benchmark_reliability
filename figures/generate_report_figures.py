@@ -315,18 +315,19 @@ def fig3_three_way_variance():
         ax.set_yticks([0, 25, 50, 75, 100])
         ax.grid(True, axis="y", alpha=0.25)
 
-        if ax_idx == 0:
-            ax.legend(
-                loc="upper right",
-                framealpha=0.95, fontsize=9,
-                ncol=1, bbox_to_anchor=(1.0, 0.95),
-            )
+    handles, labels = axes[0].get_legend_handles_labels()
+    fig.legend(
+        handles, labels,
+        loc="upper center",
+        framealpha=0.95, fontsize=9,
+        ncol=3, bbox_to_anchor=(0.5, 1.0),
+    )
 
     fig.suptitle(
         "Three-way variance decomposition (top label = prompt share)",
-        fontsize=13, fontweight="bold", y=1.02,
+        fontsize=13, fontweight="bold", y=1.08,
     )
-    fig.tight_layout()
+    fig.tight_layout(rect=[0, 0, 1, 0.97])
     fig.savefig(OUT / "fig3_three_way_variance.png")
     plt.close(fig)
     print("  saved fig3_three_way_variance.png")
